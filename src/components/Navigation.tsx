@@ -62,7 +62,7 @@ export const Navigation = () => {
             <Button
               variant="outline"
               onClick={() => {
-                window.open("https://metrik-frontend.vercel.app/", "_blank");
+                window.open("https://metrikprotocol.vercel.app/", "_blank");
               }}
               className="font-inter font-semibold rounded-xl text-lg px-6 py-3 bg-gradient-to-r from-purple-600 to-blue-500 text-white"
             >
